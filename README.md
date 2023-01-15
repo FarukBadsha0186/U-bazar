@@ -1,6 +1,11 @@
-# abcde
-ecomerc_simple_design
-# output
+# U BAzar
+# U BAzar ecomerc_simple_design
+# Android App 
+# Part 1-Splash_Screen
+# Part 2-Demo slide
+# part 3-Home Page
+
+# output of ScreenShot 
 
 ![image](https://user-images.githubusercontent.com/97550258/212496452-4077eb45-9fe1-495f-8365-4968c9ae7544.png)
 ![image](https://user-images.githubusercontent.com/97550258/212496506-05a59297-f540-4010-b981-862928097089.png)
