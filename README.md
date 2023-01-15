@@ -1,5 +1,5 @@
 # U BAzar
-# U BAzar ecomerc_simple_design
+# U BAzar ecomerce simple_design
 # Android App 
 # Part 1-Splash_Screen
 # Part 2-Demo slide
