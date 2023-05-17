@@ -4,6 +4,7 @@
 # Part 1-Splash_Screen
 # Part 2-Demo slide
 # part 3-Home Page
+# https://farukbadsha0186.github.io/U-bazar/
 
 # output of ScreenShot 
 
